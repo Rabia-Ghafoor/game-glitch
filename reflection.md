@@ -64,6 +64,8 @@ Made lots of changes from the range for the hard mode, to data type for guessing
 
 I really like how I always use CLI commands for Git. So this is a small habit but meaningful to me, and makes me remember all the CLI commands on the top of my head. So, i I wil be using it.
 - What is one thing you would do differently next time you work with AI on a coding task?
+
 Be more succinct in my  prompts to AI
 - In one or two sentences, describe how this project changed the way you think about AI generated code.
+
 Definitely made me more reliant on AI, instead of training myself to look for cues.
