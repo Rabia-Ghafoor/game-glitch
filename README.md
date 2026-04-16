@@ -26,7 +26,10 @@ It wrote the code, ran away, and now the game is unplayable.
 ## 📝 Document Your Experience
 
 - [ ] Describe the game's purpose.
+the game's purpsoe  is to a number guessing game, where an end user has to guess  the secret, which is a number generated between 0 and 100, whenever the user enters some number between 0 and 100, the hints are supposed to appear to guide the end user to guess the secret. If the guess is higher number than the secret, the guess is supposed to say: go lower, and vice-versa
 - [ ] Detail which bugs you found.
+
+
 - [ ] Explain what fixes you applied.
 
 ## 📸 Demo
